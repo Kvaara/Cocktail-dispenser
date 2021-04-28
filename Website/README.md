@@ -6,6 +6,7 @@
 5. It should say that "Server is running on port 3002" and that "Database Connection Established"
 	=> go to localhost:3002 or 127.0.0.1:3002 in your browser.
 
+You need to login first => username: admin , password: admin
 ------------------------------- Backstory -----------------------------------
 
 This was a school assignment project where we had to code a GUI to a RaspBerry Pi 4 that could be used with the RaspBerry Pi provided 7'' touchscreen. In addition, we had to design and develop a website that has a connection to a MongoDB database (we decided to use Atlas), an implementation of Socket.IO, route validation (all pages but login are usable only by logged in users) and authentication.
